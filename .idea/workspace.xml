@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="09eea4a7-a8c1-4e5d-81e9-bb8bac624b92" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/tessst_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/tessst_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/tessst/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/tessst/phan1/TinhTong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/tessst/phan2/SinhVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/tessst/phan2/SinhVienSevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/tessst/phan1/TinhTongTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/tessst/phan2/SinhVienSeviceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/tessst/phan3/TestWeb.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ttNcRRFdqu4pAhQ9PK0JeOLMHM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.example.tessst.phan2" />
+      <recent name="com.example.tessst.phan1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SinhVienSeviceTest.SearchId">
+    <configuration name="SinhVienSeviceTest.SearchId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tessst" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.tessst.phan2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.tessst.phan2" />
+      <option name="MAIN_CLASS_NAME" value="com.example.tessst.phan2.SinhVienSeviceTest" />
+      <option name="METHOD_NAME" value="SearchId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SinhVienSeviceTest.Update" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tessst" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.tessst.phan2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.tessst.phan2" />
+      <option name="MAIN_CLASS_NAME" value="com.example.tessst.phan2.SinhVienSeviceTest" />
+      <option name="METHOD_NAME" value="Update" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SinhVienSeviceTest.UpdateSinhVienCacTruong" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tessst" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.tessst.phan2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.tessst.phan2" />
+      <option name="MAIN_CLASS_NAME" value="com.example.tessst.phan2.SinhVienSeviceTest" />
+      <option name="METHOD_NAME" value="UpdateSinhVienCacTruong" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SinhVienSeviceTest.UpdateSinhVienNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tessst" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.tessst.phan2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.tessst.phan2" />
+      <option name="MAIN_CLASS_NAME" value="com.example.tessst.phan2.SinhVienSeviceTest" />
+      <option name="METHOD_NAME" value="UpdateSinhVienNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestWeb.testWeee" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tessst" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.tessst.phan3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.tessst.phan3" />
+      <option name="MAIN_CLASS_NAME" value="com.example.tessst.phan3.TestWeb" />
+      <option name="METHOD_NAME" value="testWeee" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 10.1.19" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.19" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="tessst:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/tessst_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="tessst:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SinhVienSeviceTest.SearchId" />
+        <item itemvalue="JUnit.SinhVienSeviceTest.UpdateSinhVienCacTruong" />
+        <item itemvalue="JUnit.SinhVienSeviceTest.UpdateSinhVienNull" />
+        <item itemvalue="JUnit.SinhVienSeviceTest.Update" />
+        <item itemvalue="JUnit.TestWeb.testWeee" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09eea4a7-a8c1-4e5d-81e9-bb8bac624b92" name="Changes" comment="" />
+      <created>1741167490156</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741167490156</updated>
+      <workItem from="1741167491466" duration="2975000" />
+      <workItem from="1741178726419" duration="5326000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
